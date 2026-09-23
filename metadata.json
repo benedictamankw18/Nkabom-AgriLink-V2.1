@@ -1,0 +1,10 @@
+{
+  "name": "Remix Nkabom AgriLink",
+  "description": "Connect your harvest directly to reliable buyers across Ghana with real-time market rates, voice assistance, and escrow protection.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
